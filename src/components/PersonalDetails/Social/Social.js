@@ -7,12 +7,12 @@ const Social = () => {
         <div className="social mt-4">
             <Heading heading="Social Connectivity" />
             <span>
-                <img src={Home} style={{ width: '30px', height: '30px' }} />
-                <a href="https://github.com/rkbhambri"><span>https://github.com/rkbhambri</span></a>
+                <img src={Home} style={{ width: '30px', height: '30px' }} alt="Not available" />
+                <a href="https://github.com/rkbhambri" target="_blank" rel="noopener noreferrer"><span>https://github.com/rkbhambri</span></a>
             </span><br />
             <span>
-                <img src={Home} style={{ width: '30px', height: '30px' }} />
-                <a href="https://www.linkedin.com/in/rk-bhambri-462778116"><span>https://www.linkedin.com/in/rk-bhambri-462778116</span></a>
+                <img src={Home} style={{ width: '30px', height: '30px' }} alt="Not available" />
+                <a href="https://www.linkedin.com/in/rk-bhambri-462778116" target="_blank" rel="noopener noreferrer"><span>https://www.linkedin.com/in/rk-bhambri-462778116</span></a>
             </span><br />
         </div>
     );
