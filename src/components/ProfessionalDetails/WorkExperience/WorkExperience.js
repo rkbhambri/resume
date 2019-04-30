@@ -1,12 +1,16 @@
 import React from 'react';
 import Heading from '../../Heading/Heading';
+import Home from '../../../Images/home.svg';
 import WorkExperienceDetails from './WorkExperienceDetails/WorkExperienceDetails';
 import './WorkExperience.css';
 
 const WorkExperience = (props) => {
     return (
         <div className="work-experience col-md-12 mt-3">
-            <Heading heading="Professional Experience" />
+            <div className="row col-md-12 pt-3">
+                <img src={Home} style={{ width: '30px', height: '30px' }} alt="Not available" />&nbsp;
+                <Heading heading="Professional Experience" />
+            </div>
             <WorkExperienceDetails
                 company="Kontiki AI"
                 duration="09-07-2018 - Present"

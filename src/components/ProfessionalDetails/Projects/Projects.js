@@ -9,7 +9,7 @@ const Projects = (props) => {
     const college = "New patient fills online registration form giving all details of their illness. After going through all details doctor either confirms or rejects the registration of patient. All registered patients can book appointment of doctors. Doctors are available on specific dates for consultation.";
     return (
         <div className="projects col-md-12 mt-3">
-            <div className="row col-md-12 ml-1 pt-3">
+            <div className="row col-md-12 pt-3">
                 <img src={Home} style={{ width: '30px', height: '30px' }} alt="Not available" />&nbsp;
                 <Heading heading="Projects" />
             </div>
@@ -26,7 +26,7 @@ const Projects = (props) => {
             <div className="react-projects mt-3">
                 <h6>Here below is the link for some more projects built using ReactJs : </h6>
                 <a href="https://rkbhambri.github.io/rkbhambri/" target="_blank" rel="noopener noreferrer">https://rkbhambri.github.io/rkbhambri/</a>
-            </div>
+            </div><br />
         </div>
     );
 };

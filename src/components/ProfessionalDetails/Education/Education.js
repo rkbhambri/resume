@@ -7,7 +7,7 @@ import './Education.css';
 const Education = (props) => {
     return (
         <div className="education col-md-12 mt-3">
-            <div className="row col-md-12 ml-1 pt-3">
+            <div className="row ml-1 pt-3">
                 <img src={Home} style={{ width: '30px', height: '30px' }} alt="Not available" />&nbsp;
                 <Heading heading="Education" />
             </div>

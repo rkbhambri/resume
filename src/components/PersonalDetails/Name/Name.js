@@ -2,7 +2,7 @@ import React from 'react';
 
 const Name = () => {
     return (
-        <div className="name">
+        <div className="name mt-3">
             <h4>Ram Krishan</h4>
             <div className="designation" style={{ color: '#99D7AF', fontSize: '16px' }}>
                 FrontEnd Developer

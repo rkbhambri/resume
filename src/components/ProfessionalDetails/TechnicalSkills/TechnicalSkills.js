@@ -58,7 +58,7 @@ const TechnicalSkills = (props) => {
                             Mysql, Oracle Sql, Sql Server
                         </span>
                     </span>
-                </div>
+                </div><br />
             </div>
         </div>
     );

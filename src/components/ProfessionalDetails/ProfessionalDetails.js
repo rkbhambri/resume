@@ -4,7 +4,7 @@ import CareerObjective from './CarrerObjective/CarrerObjective';
 import TechnicalSkills from './TechnicalSkills/TechnicalSkills';
 import WorkExperience from './WorkExperience/WorkExperience';
 import Projects from './Projects/Projects';
-
+import './ProfessionalDetails.css'
 const ProfessionalDetails = (props) => {
     return (
         <div className="professional-details col-md-9 mt-3">
