@@ -4,6 +4,7 @@ import Details from './Details/Details';
 import Social from './Social/Social';
 import Languages from './Languages/Languages';
 import Hobbies from './Hobbies/Hobbies';
+import CoCurricularActivities from './CoCurricularActivities/CoCurricularActivities';
 import './PersonalDetails.css';
 
 const PersonalDetails = (props) => {
@@ -14,6 +15,7 @@ const PersonalDetails = (props) => {
             <Social />
             <Languages />
             <Hobbies />
+            <CoCurricularActivities />
         </div>
     );
 }

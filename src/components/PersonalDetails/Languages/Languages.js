@@ -3,11 +3,11 @@ import Heading from '../../Heading/Heading';
 
 const Languages = () => {
     return (
-        <div className="languages mt-4">
-            <Heading heading="Languages" />
-            <div>English</div>
-            <div>Hindi</div>
-            <div>Punjabi</div>
+        <div className="languages mt-1">
+            <Heading heading="Languages" /><hr />
+            <div className="mt-1">English</div>
+            <div className="mt-1">Hindi</div>
+            <div className="mt-1">Punjabi</div>
         </div>
     );
 }

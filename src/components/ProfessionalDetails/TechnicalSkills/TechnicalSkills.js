@@ -1,13 +1,13 @@
 import React from 'react';
 import Heading from '../../Heading/Heading';
-import Home from '../../../Images/home.svg';
+import Skills from '../../../Images/skills.svg';
 import './TechnicalSkills.css';
 
 const TechnicalSkills = (props) => {
     return (
         <div className="technical-skills col-md-12 mt-3">
             <div className="row ml-1 pt-3">
-                <img src={Home} style={{ width: '30px', height: '30px' }} alt="Not available" />&nbsp;
+                <img src={Skills} style={{ width: '28px', height: '28px' }} alt="Not available" />&nbsp;&nbsp;
                 <Heading heading="Technical Skills" />
             </div>
             <div className="skills ml-1 pt-3">

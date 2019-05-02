@@ -6,7 +6,7 @@ const Qualification = (props) => {
             <h6 className="subject">{props.subject}</h6>
             <div className="school">{props.school}</div>
             {props.isSchool && <div className="board">Board: {props.board}</div>}
-            <div className="passout-year">Passout Year: {props.passoutYear}</div>
+            <div className="passout-year"> Year: {props.year}</div>
             <div className="marks">
                 {
                     props.isCgpa ? <span>Cgpa: </span> : <span>Percentage: </span>

@@ -1,18 +1,27 @@
 import React from 'react';
 import Heading from '../../Heading/Heading';
-import Home from '../../../Images/home.svg';
+import Github from '../../../Images/github.svg';
+import LinkedIn from '../../../Images/linkedin.svg';
 
 const Social = () => {
     return (
         <div className="social mt-4">
-            <Heading heading="Social Connectivity" />
+            <Heading heading="Social Connectivity" /><hr />
             <span>
-                <img src={Home} style={{ width: '30px', height: '30px' }} alt="Not available" />
-                <a href="https://github.com/rkbhambri" target="_blank" rel="noopener noreferrer">&nbsp;<span>https://github.com/rkbhambri</span></a>
+                <img src={Github} style={{ width: '25px', height: '25px' }} alt="Not available" />
+                <a
+                    href="https://github.com/rkbhambri"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ textDecoration: 'none' }}>&nbsp;<span>https://github.com/rkbhambri</span></a>
             </span><br />
-            <span>
-                <img src={Home} style={{ width: '29px', height: '29px' }} alt="Not available" />
-                <a href="https://www.linkedin.com/in/rk-bhambri-462778116" target="_blank" rel="noopener noreferrer">&nbsp;<span>https://www.linkedin.com/in/rk-bhambri-462778116</span></a>
+            <span style={{ display: 'block' }} className="mt-2">
+                <img src={LinkedIn} style={{ width: '25px', height: '25px' }} alt="Not available" />
+                <a
+                    href="https://www.linkedin.com/in/rk-bhambri-462778116"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ textDecoration: 'none' }}>&nbsp;<span>https://www.linkedin.com/in/rk-bhambri-462778116</span></a>
             </span><br />
         </div>
     );
