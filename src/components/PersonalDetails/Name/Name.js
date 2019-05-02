@@ -4,7 +4,7 @@ const Name = () => {
     return (
         <div className="name mt-3">
             <h4>Ram Krishan</h4>
-            <div className="designation" style={{ color: '#99D7AF', fontSize: '16px' }}>
+            <div className="designation" style={{ color: '#69d196', fontSize: '16px' }}>
                 FrontEnd Developer
             </div><hr />
         </div>
