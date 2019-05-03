@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.0cee59ec.chunk.css",
+    "main.js": "/resume/static/js/main.c24952f2.chunk.js",
+    "main.js.map": "/resume/static/js/main.c24952f2.chunk.js.map",
+    "runtime~main.js": "/resume/static/js/runtime~main.30522d0f.js",
+    "runtime~main.js.map": "/resume/static/js/runtime~main.30522d0f.js.map",
+    "static/css/2.266e55a5.chunk.css": "/resume/static/css/2.266e55a5.chunk.css",
+    "static/js/2.f21a971d.chunk.js": "/resume/static/js/2.f21a971d.chunk.js",
+    "static/js/2.f21a971d.chunk.js.map": "/resume/static/js/2.f21a971d.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.8051c87e74272cf02a6fa37b2742eae2.js": "/resume/precache-manifest.8051c87e74272cf02a6fa37b2742eae2.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/resume/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.0cee59ec.chunk.css.map": "/resume/static/css/main.0cee59ec.chunk.css.map",
+    "static/media/contact.svg": "/resume/static/media/contact.8b8cf34b.svg",
+    "static/media/education.svg": "/resume/static/media/education.193036c6.svg",
+    "static/media/email.svg": "/resume/static/media/email.5a11cc1a.svg",
+    "static/media/github.svg": "/resume/static/media/github.76d344f0.svg",
+    "static/media/home.svg": "/resume/static/media/home.4944eed5.svg",
+    "static/media/linkedin.svg": "/resume/static/media/linkedin.14f7b675.svg",
+    "static/media/objective.svg": "/resume/static/media/objective.ae5d1706.svg",
+    "static/media/projects.svg": "/resume/static/media/projects.065f673c.svg",
+    "static/media/skills.svg": "/resume/static/media/skills.8383df7d.svg",
+    "static/media/work-experience.svg": "/resume/static/media/work-experience.b855d7ff.svg"
+  }
+}
