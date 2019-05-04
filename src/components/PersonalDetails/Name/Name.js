@@ -5,7 +5,7 @@ const Name = () => {
         <div className="name mt-3">
             <h4>Ram Krishan</h4>
             <div className="designation" style={{ color: '#69d196', fontSize: '16px' }}>
-                FrontEnd Developer
+                Frontend Developer
             </div><hr />
         </div>
     );
