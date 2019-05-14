@@ -5,7 +5,7 @@ const ProjectDetails = (props) => {
         <div className="projectDetails mt-3">
             <h6 className="project-name">{props.projectName}</h6>
             <div className="description">{props.description}</div>
-            <div className="technology">Technology: {props.technology}</div><hr />
+            <div className="technology mt-2">Technology: {props.technology}</div><hr />
         </div>
     );
 };

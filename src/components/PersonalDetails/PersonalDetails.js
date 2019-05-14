@@ -2,6 +2,7 @@ import React from 'react';
 import Name from './Name/Name';
 import Details from './Details/Details';
 import Social from './Social/Social';
+import Portfolio from './Portfolio/Portfolio';
 import Languages from './Languages/Languages';
 import Hobbies from './Hobbies/Hobbies';
 import CoCurricularActivities from './CoCurricularActivities/CoCurricularActivities';
@@ -13,6 +14,7 @@ const PersonalDetails = (props) => {
             <Name />
             <Details />
             <Social />
+            <Portfolio />
             <Languages />
             <Hobbies />
             <CoCurricularActivities />

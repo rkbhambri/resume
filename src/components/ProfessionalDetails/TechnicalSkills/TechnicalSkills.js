@@ -58,6 +58,11 @@ const TechnicalSkills = (props) => {
                             Mysql, Oracle Sql, Sql Server
                         </span>
                     </span>
+                </div><hr />
+                <div className="others">
+                    <span>
+                        Experience with common frontend development tools such as Babel, Webpack, NPM
+                    </span>
                 </div><br />
             </div>
         </div>
