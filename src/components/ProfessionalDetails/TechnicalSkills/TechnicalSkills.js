@@ -23,7 +23,7 @@ const TechnicalSkills = (props) => {
                     <span>
                         UI :&nbsp;
                         <span>
-                            Html, Css, Bootstrap
+                            Html, Css3, Bootstrap
                         </span>
                     </span><hr />
                 </div>
@@ -31,7 +31,7 @@ const TechnicalSkills = (props) => {
                     <span>
                         Programming Language :&nbsp;
                         <span>
-                            C, C++, Javascript, PHP
+                            Javascript, C
                         </span>
                     </span><hr />
                 </div>
